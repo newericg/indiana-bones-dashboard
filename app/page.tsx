@@ -1,6 +1,5 @@
 import { LoginForm } from "@/components/forms/LoginForm";
 import Image from "next/image";
-import Link from "next/link";
 
 // import { PatientForm } from "@/components/forms/PatientForm";
 
